@@ -8,3 +8,9 @@ Worked with Rohan P, Amitoj S, and Nithik Y
 
 link -- https://devpost.com/software/haulswap
 
+# TreeHacks 2024 -- VeriVote
+We utilized a Rust backend, Python Client, and web3 protocol (QED Protocol) to create a decentralized platform to vote on proposals, finalize, and delegate votes. All the users' functions are taken from the python client, executed and sent from the rust backend. The QED protocol is built on the layer 2 blockchain and utilizes recursive zero-knowledge proofs snarks to provide security without the compromise of information. Our next steps include creating a functional UI, finding ways of authenticating users, and improvements to the system infrastructure.
+
+Worked with Rohan T, Jameson C, Tanay A
+
+link -- https://devpost.com/software/verivote-t42xoi
